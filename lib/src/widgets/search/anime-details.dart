@@ -1,5 +1,5 @@
+import 'package:KaijuStream/src/widgets/anime_search.dart';
 import 'package:flutter/material.dart';
-import 'package:mini/src/widgets/anime_search.dart';
 import 'package:video_player/video_player.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:shimmer/shimmer.dart';

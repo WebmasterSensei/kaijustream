@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:mini/src/auth/auth_provider.dart';
-import 'package:mini/src/screens/home_screen.dart';
+import 'package:KaijuStream/src/auth/auth_provider.dart';
+import 'package:KaijuStream/src/screens/home_screen.dart';
 import 'package:provider/provider.dart';
 
 class LoginScreen extends StatefulWidget {

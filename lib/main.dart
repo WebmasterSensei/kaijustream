@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
-import 'package:mini/src/auth/auth_provider.dart';
-import 'package:mini/src/auth/login_screen.dart';
-import 'package:mini/src/screens/home_screen.dart';
-import 'package:mini/src/widgets/search/anime-details.dart';
+import 'package:KaijuStream/src/auth/auth_provider.dart';
+import 'package:KaijuStream/src/auth/login_screen.dart';
+import 'package:KaijuStream/src/screens/home_screen.dart';
+import 'package:KaijuStream/src/widgets/search/anime-details.dart';
 import 'package:provider/provider.dart';
 
 final storage = FlutterSecureStorage();

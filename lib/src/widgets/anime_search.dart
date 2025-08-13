@@ -733,7 +733,7 @@ class _AnimeSearchPageState extends State<AnimeSearchPage>
           children: [
             _buildResultsHeader(),
             Expanded(
-              child: _buildGridResults(),
+              child: _buildListResults(),
             ),
           ],
         ),

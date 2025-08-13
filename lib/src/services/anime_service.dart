@@ -1,7 +1,7 @@
 // lib/services/anime_service.dart
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:mini/models/anime_model.dart';
+import 'package:KaijuStream/models/anime_model.dart';
 
 class AnimeService {
   

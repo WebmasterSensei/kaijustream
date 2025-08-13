@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
-import 'package:mini/models/anime_model.dart';
+import 'package:KaijuStream/models/anime_model.dart';
 
 class AnimeProvider with ChangeNotifier {
   List<Anime> _animeList = [];

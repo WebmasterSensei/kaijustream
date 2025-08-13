@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:mini/src/screens/profile_screen.dart';
-import 'package:mini/src/widgets/anime_list.dart';
-import 'package:mini/src/widgets/anime_search.dart';
-import 'package:mini/src/widgets/category_list.dart';
-import 'package:mini/src/widgets/promo_carousel.dart';
+import 'package:KaijuStream/src/screens/profile_screen.dart';
+import 'package:KaijuStream/src/widgets/anime_list.dart';
+import 'package:KaijuStream/src/widgets/anime_search.dart';
+import 'package:KaijuStream/src/widgets/category_list.dart';
+import 'package:KaijuStream/src/widgets/promo_carousel.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
